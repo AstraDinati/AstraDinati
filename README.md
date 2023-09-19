@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@AstraDinati**
+- 👋 Hi, I’m **Vadim**
 - 👀 **I’m interested in:**
     - Web development
     - Machine learning
