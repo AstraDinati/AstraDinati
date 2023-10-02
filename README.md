@@ -11,7 +11,7 @@
 - 💞️ I'm looking to collaborate on open-source **Python** projects.
 - 📫 **How to reach me:**
     - Email: <bigulipa@gmail.com>
-    - Telegram: *@teomirata*
+    - Telegram: *[@teomirata](https://t.me/teomirata)*
 
 <!---
 AstraDinati/AstraDinati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
